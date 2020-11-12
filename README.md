@@ -1,6 +1,6 @@
 # DataMining-FeatureSelection
 
-Data Mining-Feature Selection and Dimension reduction:
+Data Mining-Feature Selection and Dimensionality reduction:
 Methods involve:
 1. Signal-to-noise ratio (Iris dataset)
 2. 2-Tailed t-test (Iris dataset)

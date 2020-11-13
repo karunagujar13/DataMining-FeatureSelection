@@ -1,4 +1,5 @@
 iris.data
 biodeg.csv
 glass.data
+.DS_Store
 *.npy
